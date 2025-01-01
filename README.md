@@ -1,11 +1,36 @@
-Hello, 
+Hello,
 
-This is my Software Engineering Project: Employee Management System.
+This is my Software Engineering project: Employee Management System.
 
-I have used Java Swing and MySQL databases to build this.
+I have used Java Swing for the front end and MySQL for the database to build this application.
 
-The project has not been deployed, so if you want to try run it on a local systems. 
+Key Features:
+The system includes two actors: Employee and HR Manager.
 
-I will be uploading the snippets required in MySQL shortly, you can use them in your own systems.
+### Roles of the Employee:
+- Login  
+- Logout  
+- Mark Attendance  
+- View Attendance Record  
+- Request Leave  
+- Check Leave Status  
+- View Employee Details  
 
-🌟Happy Coding🌟
+### Roles of the HR Manager:
+- Login  
+- Logout  
+- Add Employee  
+- Remove Employee  
+- View Employee Details  
+- Update Employee Details  
+- Approve/Reject Leave Requests  
+- View Employee Attendance Records  
+- Update Employee Payroll  
+
+### Deployment:
+This project has not been deployed. To use it, you can run it on a local system.
+
+### Database:
+I will be uploading the necessary MySQL database snippets shortly, which you can use to set up the database on your system.
+
+🌟 Happy Coding! 🌟
