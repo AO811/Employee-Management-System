@@ -28,9 +28,9 @@ The system includes two actors: Employee and HR Manager.
 - Update Employee Payroll  
 
 ### Deployment:
-This project has not been deployed. To use it, you can run it on a local system.
+This project has not been deployed. You can run it on a local system to use it.
 
 ### Database:
-I will be uploading the necessary MySQL database snippets shortly, which you can use to set up the database on your system.
+I have uploaded the MySQL snippets, which you can use to set up the database on your system.
 
 🌟 Happy Coding! 🌟
