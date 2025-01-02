@@ -25,7 +25,21 @@ The system includes two actors: Employee and HR Manager.
 - Update Employee Details  
 - Approve/Reject Leave Requests  
 - View Employee Attendance Records  
-- Update Employee Payroll  
+- Update Employee Payroll
+
+### SRS Document:
+Uploaded in PDF format. It also contains a Use Case Diagram, Class Diagram, and Sequence Diagram. Can be downloaded for reference.
+
+### Testing:
+A PDF detailing the Black Box Testing strategies has been uploaded. It includes:
+
+1. Boundary Value Analysis
+  
+2. Requirements Traceability Matrix
+   
+3. Positive & Negative Testing
+
+White Box Testing was conducted under the supervision of our faculty.
 
 ### Deployment:
 This project has not been deployed. You can run it on a local system to use it.
